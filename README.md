@@ -1,7 +1,7 @@
 ### 🐸 Hey, I'm Priscilla! ✌🏻
 
 - 🔭 Information Systems student at Unirio
-- 🌱 Currently learning Java
+- 🌱 Currently learning Java and Python
 - 📚 Previously studied: C/C++, HTML5, CSS3 and JavaScript
 - 🤠 Pronouns: she/her
 - ⚡ Fun fact: I love drawing and painting in my free time
