@@ -1,10 +1,6 @@
-### 🐸 Hey, I'm Priscilla! ✌🏻
+### 🐸 Hey, there! ✌🏻
 
-- 🔭 Information Systems student at Unirio
-- 🌱 Currently learning Java and Python
-- 📚 Previously studied: C/C++, HTML5, CSS3 and JavaScript
-- 🤠 Pronouns: she/her
-- ⚡ Fun fact: I love drawing and painting in my free time
+I'm Priscilla! I'm an Information Systems student with a passion for data-related topics and a curious mind. I love to express creativity through drawing and painting in my free time. 
 
 <div>
   <a href="https://github.com/priscillasz">
