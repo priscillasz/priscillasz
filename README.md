@@ -1,4 +1,4 @@
-## 🐸 hey hey hey, I'm Priscilla! ✌🏻✨
+## Hey, I'm Priscilla! ✌🏻✨
 
 - 🌍 Rio de Janeiro, RJ.
 - 🎓 Undergraduate student at UNIRIO pursuing a bachelor's degree in Information Systems.
