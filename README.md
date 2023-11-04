@@ -2,9 +2,7 @@
 
 - 🌍 Rio de Janeiro, RJ.
 - 🎓 Undergraduate student at UNIRIO pursuing a bachelor's degree in Information Systems.
-- 🧑🏻‍💻 I'm currently working as a data engineering intern at Passei Direto.
-- 📊 I like working with data and I'm currently part of a data analysis extension project at UNIRIO called UtiliDados.
-- 📚 I'm mainly familiar with Python, SQL and Java. I'm also learning bash.
+- 🧑🏻‍💻 Data engineering intern at Passei Direto.
 - 🎨 I love drawing and painting in my free time ❤️
 
 <div display="flex">
